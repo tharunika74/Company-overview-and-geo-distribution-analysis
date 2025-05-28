@@ -49,10 +49,4 @@ Identified data quality issues through a heatmap.
 
 Delivered a clean, insightful notebook for data-driven decision-making.
 
- Sample Visualizations
-(Add screenshot images from your notebook’s outputs here if you like for presentation value)
 
- Author
-Tharunika
-tharunikasendhilkumar@gmail.com
-LinkedIn
